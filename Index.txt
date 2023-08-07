@@ -1,0 +1,82 @@
+Html: structure of webpage
+Css: styling of webpade
+Javascript: Logic of Website
+
+CSS - cascading Style Sheet
+
+Example
+
+CSS selector {
+    Property: value;
+}
+
+Ways to include CSS in Html
+1) Inline CSS
+2) Style Tag
+3) External Style Sheet
+
+Some IMPORTANT Properties and there values
+
+1) CSS selectors
+* = Universal selector
+# = Id selector
+. = class selector
+elemet selector = element selector
+
+2) Property: Color
+color:red;
+color:#fff
+color:rgb(255, 4,6)
+
+3) Property: Background-Color
+color:red;
+color:#fff
+color:rgb(255, 4,6)
+
+4) Property: Text
+Text-align = center,right,left, justify
+text-decoration = underline,overline,line-trow
+font-wieght = normal, bold, bolder, light,100-900
+font-family= arial, roboto
+text-tranform = uppercase, lowercase,capitalize
+
+5) Property: Box Model
+Height: vertically Area
+Width: Horizontally Area
+Padding: content to border
+border: border of content
+Margin: border outer Area
+
+6) Property: Display
+Inline: element becomes Inline element
+Block: element becomes block element
+Inline-block: element becomes Inline element but we can give Height and Width
+none: remove element from document
+visibility: hidden
+
+
+7) Property: Units is CSS
+
+A) Absosule Units
+1px
+1in
+1cm
+B) Relative Units
+1%: 1 % of parent value
+1em: relative to parent element
+1rem: relative to root element
+1vh: relative to Height of the Display
+1vw: relative to width of the Display
+
+8) Property: Position
+static: default Position of element in document
+relative: Position of the elemet relative to its actual Position
+Absosule: Position of element relative to browser window
+fixed: Position fixed at perticular Position
+sticky: Position sticky to a Position
+z-index: Position of element acording to z axis
+
+9) 
+font-family: 'Kanit', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'PT Serif', serif;
